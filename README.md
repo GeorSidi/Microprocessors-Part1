@@ -50,22 +50,8 @@ The implementation simulates the role of a testbench for digital design verifica
 
 ## Ask4 – Stress Test Generation Using a Genetic Algorithm
 
-Generation of input vectors that produce maximal switching activity in the circuit using a genetic algorithm. The goal is to create maximum load scenarios for testing and reliability assessment.
+Generation of input vectors that produce maximal switching activity in the circuit using a genetic algorithm, for testing and reliability assessment.
 
 ---
-
-## File
-
-All implementations are contained in the file:
-- `main_simulation.py`
-
----
-
-## How to Run
-
-1. Install Python 3.
-2. Run the script:
-   ```bash
-   python main_simulation.py
 
 
