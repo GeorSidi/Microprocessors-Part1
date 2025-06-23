@@ -4,7 +4,7 @@ This is a partof  my Projects for my Uni lesson "Microprocessors"
 ## Monte Carlo and Logic Gate Activity Simulations
 This project is about Monte Carlo simulations and switching activity analysis for logic gates and digital circuits.
 
-## Ask1 – Monte Carlo and Logic Gate Simulation
+## Lab 1 – Monte Carlo and Logic Gate Simulation
 
 ### 1.1 Monte Carlo Estimation of π
 
@@ -18,7 +18,7 @@ A Monte Carlo-based program that calculates the switching activity of circuit, o
 
 A function that calculates the signal probabilities for basic logic gates.
 ---
-## Ask2 – Circuit Analysis and Monte Carlo
+## Lab 2 – Circuit Analysis and Monte Carlo
 
 ### 2.1 Circuit Creation
 
@@ -34,7 +34,7 @@ Application of Monte Carlo simulation to estimate circuit behavior under random 
 
 ---
 
-## Ask3 – Testbench Creation
+## Lab 3 – Testbench Creation
 
 ### 3.1 Generation of random or controlled input vectors.
 ### 3.2 Application of the vectors to the circuit.
@@ -44,7 +44,7 @@ Application of Monte Carlo simulation to estimate circuit behavior under random 
 
 ---
 
-## Ask4 – Stress Test Generation Using a Genetic Algorithm
+## Lab 4 – Stress Test Generation Using a Genetic Algorithm
 
 Generation of input vectors that produce maximal switching activity in the circuit using a genetic algorithm, for testing and reliability assessment.
 
